@@ -3,5 +3,4 @@
 [node name="world" type="Node3D"]
 
 [node name="CSGBox3D" type="CSGBox3D" parent="."]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -1.8024902)
-size = Vector3(10, 0, 8.633301)
+size = Vector3(10, 0, 12.238281)
